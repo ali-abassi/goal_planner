@@ -2,7 +2,7 @@
 
 ## Overview
 
-`goal_setter.py` is a Python script designed to help users define, refine, and execute their goals through a series of tasks. The script leverages the Anthropic API to enhance and refine user goals, and uses the `rich` library to provide a visually appealing command-line interface.
+`goal_setter.py` is a Python script designed to help users define, refine goals and tasks to provide an AI Agent. The script leverages the Anthropic API to enhance and refine user goals, and uses the `rich` library to provide a visually appealing command-line interface.
 
 ## Features
 
