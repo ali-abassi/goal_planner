@@ -28,10 +28,6 @@
     cd goal_setter
     ```
 
-2. Install the required Python packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
