@@ -24,7 +24,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/goal_setter.git
+    git clone https://github.com/ali-abassi/goal_planner.git
     cd goal_setter
     ```
 
